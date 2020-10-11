@@ -7,7 +7,7 @@
     "build": "ng build",
     "test": "ng test --code-coverage --progress=false",
     "test:watch": "ng test --code-coverage --progress=false --watch",
-    "precommit" :"npm run lint",
+    "pre-commit" :"npm run lint",
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
